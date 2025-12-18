@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-Line changed in dev branch
-=======
-Line changed in ayodele branch
->>>>>>> ayodele
